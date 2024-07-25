@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640668157216",
+    "project_id": "tcomposereader",
+    "storage_bucket": "tcomposereader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640668157216:android:4b0fef456b349b3f468345",
+        "android_client_info": {
+          "package_name": "br.com.okayamafilho.tcomposereader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBatzlgJ2_VzsRAKNY7X1Nqx0YTHTHaHE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
