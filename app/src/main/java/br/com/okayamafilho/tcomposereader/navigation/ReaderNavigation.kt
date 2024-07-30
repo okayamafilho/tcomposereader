@@ -31,5 +31,4 @@ fun ReaderNavigation() {
             LoginScreen(navController = navController)
         }
     }
-
 }
